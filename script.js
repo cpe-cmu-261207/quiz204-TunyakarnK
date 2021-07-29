@@ -7,10 +7,8 @@ const color = document.querySelector('#color')
 // define more constants and variables here
 
 btn_toggle.onclick = () => {
-    const Text = document.createElement('p')
-    const Box = document.createElement('div')
-
-    Box.className = 
+  document.getElementById("author").innerHTML = 630610740-length
 }
 
 // more codes for Search and Reset buttons here
+btn_
